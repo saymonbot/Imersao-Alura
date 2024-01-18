@@ -1,12 +1,17 @@
 body {
     background-color: rgb(1, 19, 36);
-    color: antiquewhite;   
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color: #f6f6f6;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-h2{
-    color: rgb(42, 108, 230);
+h2 {
+    color: #22D4FD;
 }
-a{
+
+a {
     color: aliceblue;
+}
+
+img {
+    align-content: right;
 }
